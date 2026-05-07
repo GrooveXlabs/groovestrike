@@ -1,5 +1,9 @@
 # GrooveStrike
 
+[![Tests](https://github.com/GrooveXlabs/groovestrike/actions/workflows/test.yml/badge.svg)](https://github.com/GrooveXlabs/groovestrike/actions/workflows/test.yml)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 > **Autonomous Penetration Testing Framework**
 >
 > The first MCP-native pentest tool that closes the loop from **find → exploit → report → defend → revalidate**.
@@ -151,7 +155,9 @@ pytest -v
 |---------|------|
 | [grooveguard](https://github.com/GrooveXlabs/grooveguard) | Static security scanner |
 | [groovehub](https://github.com/GrooveXlabs/groovehub) | MCP server registry with scoring |
-| **groovestrike** | Autonomous pentest framework |
+| [purpleforge](https://github.com/GrooveXlabs/purpleforge) | Purple team defense rules |
+| [threathound](https://github.com/GrooveXlabs/threathound) | Blue Team SOC automation |
+| [redtrack](https://github.com/GrooveXlabs/redtrack) | Red Team recon & attack paths |
 
 ---
 
